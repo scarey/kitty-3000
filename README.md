@@ -1,1 +1,1 @@
-Micropython alternative code for running the Kitty 3000 as the original project seems unavailable.  This project uses an ESP32 and Home Assistant to release and track treat counts.  See the details at https://tech.scarey.net/kitty-3000.
+Alternative code for running the Kitty 3000 as the original project seems unavailable.  This project uses an Micropython on an ESP32 and Home Assistant to release and track treat counts.  See the details at https://tech.scarey.net/kitty-3000.
